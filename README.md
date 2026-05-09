@@ -1,22 +1,26 @@
-# Hi, I'm D 👋
+<div align="center">
 
-Developer focused on building robust applications and learning continuously.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Synth&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-### Tech Stack
+</div>
 
-`C#` `C++` `JavaScript` `HTML/CSS` · `.NET` `ASP.NET` `React` · `Git`
+<div align="center">
 
-### Focus Areas
+`Founder of Synthar.cc`
 
-- Backend and desktop development with C# and .NET
-- Systems programming with C++
-- Modern web development
+Building high-performance software that operates at the edge of what's possible.
 
-### Contact
+[![Website](https://img.shields.io/badge/synthar.cc-0d1117?style=flat-square&logo=google-chrome&logoColor=white)](https://synthar.cc)
+[![Discord](https://img.shields.io/badge/discord.gg/synthar-0d1117?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/synthar)
 
-- **Email** — d3ftucheat@gmail.com
-- **Discord** — mightybat0888
+</div>
 
 ---
 
-*Open to collaboration and interesting conversations about tech.*
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+**Languages**
