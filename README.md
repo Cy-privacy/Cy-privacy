@@ -8,7 +8,6 @@
 
 [![Website](https://img.shields.io/badge/synthar.cc-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://synthar.cc)
 [![Discord](https://img.shields.io/badge/discord.gg/synthar-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/synthar)
-[![Profile Views](https://komarev.com/ghpvc/?username=Cy-privacy&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/Cy-privacy)
 
 </div>
 
@@ -25,6 +24,16 @@ Founder of **Synthar** — building performance-focused gaming software in C#, w
 
 <br>
 
+<div align="center">
+
+```
+┌──────────────────────────────────────────────┐
+│  building software that outperforms the norm  │
+└──────────────────────────────────────────────┘
+```
+
+</div>
+
 ## Tech Stack
 
 <div align="center">
@@ -40,21 +49,6 @@ Founder of **Synthar** — building performance-focused gaming software in C#, w
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cy-privacy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cy-privacy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=6" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cy-privacy&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
