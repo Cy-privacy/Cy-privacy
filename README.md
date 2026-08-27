@@ -13,15 +13,6 @@
 
 <br>
 
-## About
-
-Founder of **Synthar** — building performance-focused gaming software in C#, with a product suite spanning desktop applications, licensing infrastructure, and web platforms.
-
-- Currently building **Synthar Vanguard** — a WPF desktop app with real-time screen capture (DXGI/WGC/GDI) and detection pipelines
-- Also running **MRI Solutions** — web development and payment processing
-- Focused on low-level Windows internals, performant desktop UI, and clean full-stack web architecture
-- Reach out via [Discord](https://discord.gg/synthar) or [synthar.cc](https://synthar.cc)
-
 <br>
 
 <div align="center">
