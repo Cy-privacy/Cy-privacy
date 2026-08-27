@@ -13,18 +13,6 @@
 
 <br>
 
-<br>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────┐
-│  building software that outperforms the norm  │
-└──────────────────────────────────────────────┘
-```
-
-</div>
-
 ## Tech Stack
 
 <div align="center">
