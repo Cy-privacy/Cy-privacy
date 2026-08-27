@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/synthar.cc-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://synthar.cc)
 [![Discord](https://img.shields.io/badge/discord.gg/synthar-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/synthar)
-[![Profile Views](https://komarev.com/ghpvc/?username=synthar&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/synthar)
+[![Profile Views](https://komarev.com/ghpvc/?username=Cy-privacy&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/Cy-privacy)
 
 </div>
 
@@ -18,10 +18,10 @@
 
 Founder of **Synthar** — building performance-focused gaming software in C#, with a product suite spanning desktop applications, licensing infrastructure, and web platforms.
 
-- 🔧 Currently building **Synthar Vanguard** — a WPF desktop app with real-time screen capture (DXGI/WGC/GDI) and detection pipelines
-- 🌐 Also running **MRI Solutions** — web development & payment processing
-- ⚡ Focused on low-level Windows internals, performant desktop UI, and clean full-stack web architecture
-- 📫 Reach me on [Discord](https://discord.gg/synthar) or via [synthar.cc](https://synthar.cc)
+- Currently building **Synthar Vanguard** — a WPF desktop app with real-time screen capture (DXGI/WGC/GDI) and detection pipelines
+- Also running **MRI Solutions** — web development and payment processing
+- Focused on low-level Windows internals, performant desktop UI, and clean full-stack web architecture
+- Reach out via [Discord](https://discord.gg/synthar) or [synthar.cc](https://synthar.cc)
 
 <br>
 
@@ -49,12 +49,12 @@ Founder of **Synthar** — building performance-focused gaming software in C#, w
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=synthar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cy-privacy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cy-privacy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=6" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=synthar&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cy-privacy&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
